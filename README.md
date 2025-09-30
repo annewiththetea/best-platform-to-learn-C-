@@ -32,7 +32,7 @@ That’s why finding the best platform to learn C# isn’t just about features. 
 
 ## Platform 1: Educative – Structured, In-Browser, Modern C# Mastery
 
-I found **Educative** when I was prepping for system design interviews, but it was their [C# learning path] (https://www.educative.io/path/become-a-c-sharp-programmer) that surprised me most.
+I found **Educative** when I was prepping for system design interviews, but it was their (C# learning path)<https://www.educative.io/path/become-a-c-sharp-programmer> that surprised me most.
 
 Their courses are fully text-based (no endless videos) and run entirely in the browser. You can write and run C# code without setting up anything. For me, that meant no SDK installations, no confusing IDEs, just code, feedback, and momentum.
 
